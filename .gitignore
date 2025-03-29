@@ -1,0 +1,29 @@
+# Node.js (MERN Backend)
+backend/node_modules/
+backend/.env
+backend/package-lock.json
+
+# React (Frontend)
+frontend/node_modules/
+frontend/.env
+frontend/.next/
+frontend/.DS_Store
+frontend/package-lock.json
+
+# Python (Django AI Server)
+ai-server/__pycache__/
+ai-server/venv/
+ai-server/db.sqlite3
+ai-server/.env
+
+# Logs & Cache
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pip-cache/
+coverage/
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db

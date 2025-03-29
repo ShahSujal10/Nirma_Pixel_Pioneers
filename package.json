@@ -1,0 +1,20 @@
+{
+  "name": "nirma_pixel_pioneers",
+  "version": "1.0.0",
+  "description": "HACK-NU-THON-6.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahSujal10/Nirma_Pixel_Pioneers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShahSujal10/Nirma_Pixel_Pioneers/issues"
+  },
+  "homepage": "https://github.com/ShahSujal10/Nirma_Pixel_Pioneers#readme"
+}
